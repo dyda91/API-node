@@ -7,7 +7,7 @@
   
 <h2>PASSOS PARA EXECUTAR A APLICAÇÃO.</h2>
   <p>  • Na pasta raiz (API-Node) rodar o comando `npm install` </p>
-  <p>  • Rodar o comando `npm start` ou `npm run dev` (para modo de desenvolvimento)  	```Insira o código```</p> 	```Insira o código```
+  <p>  • Rodar o comando `npm start` ou `npm run dev` (para modo de desenvolvimento)`</p>
 <p>  NOTA! na pasta `/config` arquivo `database.js` é feita a conexexão com o MongoDB, será preciso realizar essa configuração antes de iniciar</p> 
 
   
