@@ -1,5 +1,5 @@
 import app from "./app.js";
 
-const port = 5000;
+const port = 5050;
 
-app.listen(5000, () => console.log(`Servidor iniciado na porta ${port}!`))
+app.listen(5050, () => console.log(`Servidor iniciado na porta ${port}!`))
